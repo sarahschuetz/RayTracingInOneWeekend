@@ -1,0 +1,9 @@
+# Editors
+.idea
+
+# OS metadata
+.DS_Store
+
+# Compiled files
+*.js
+*.js.map
